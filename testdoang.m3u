@@ -1,0 +1,489 @@
+#EXTINF:-1 tvg-logo="https://tsptv.my.id/image/Indosiar.png" group-title="Nasional", Indosiar
+http://shab.ios.tsptv.my.id/channelid/indosiar/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://tsptv.my.id/image/SCTV.png" group-title="Nasional", Sctv
+http://shab.ios.tsptv.my.id/channelid/sctv/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://tsptv.my.id/image/RCTI.png" group-title="Nasional", Rcti
+http://shab.ios.tsptv.my.id/channelid/rcti/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://tsptv.my.id/image/GTV.png" group-title="Nasional", Gtv
+http://shab.ios.tsptv.my.id/channelid/gtv/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://tsptv.my.id/image/MNCTV.png" group-title="Nasional", Mnctv
+http://shab.ios.tsptv.my.id/channelid/mnctv/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://tsptv.my.id/image/Trans7HD.png" group-title="Nasional", Trans 7 HD
+http://shab.ios.tsptv.my.id/channelid/trans7hd/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://tsptv.my.id/image/TransTVHD.png" group-title="Nasional", Trans TV HD
+http://shab.ios.tsptv.my.id/channelid/transtvhd/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://tsptv.my.id/image/NETTVHD.png" group-title="Nasional", Net TV
+http://shab.ios.tsptv.my.id/channelid/nettvhd/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://tsptv.my.id/image/Antv.png" group-title="Nasional", Net TV
+http://shab.ios.tsptv.my.id/channelid/antv/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://tsptv.my.id/image/RTV.png" group-title="Nasional", RTV
+http://shab.ios.tsptv.my.id/channelid/rtv/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://tsptv.my.id/image/TVRI.png" group-title="Nasional", TVRI Nasional
+http://shab.ios.tsptv.my.id/channelid/tvri/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://tsptv.my.id/image/JTV.png" group-title="Nasional", JTV
+http://shab.ios.tsptv.my.id/channelid/jtv/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://tsptv.my.id/image/BaliTV.png" group-title="Nasional", Bali TV
+http://shab.ios.tsptv.my.id/channelid/balitv/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://tsptv.my.id/image/Antara.png" group-title="Nasional", Antara TV
+http://shab.ios.tsptv.my.id/channelid/antaratv/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://tsptv.my.id/image/Magna.png" group-title="Nasional", Magna Channel
+http://shab.ios.tsptv.my.id/channelid/magnachannel/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://tsptv.my.id/image/Jaktv.png" group-title="Nasional", Jak TV
+http://shab.ios.tsptv.my.id/channelid/jaktv/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_jitv_big.png" group-title="Nasional", JITV
+http://shab.ios.tsptv.my.id/channelid/jitv/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://tsptv.my.id/image/Ntv.png" group-title="Nasional", Nusantara TV
+http://shab.ios.tsptv.my.id/channelid/ntv/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://tsptv.my.id/image/UseePhoto.png" group-title="Nasional", Usee Photo
+http://shab.ios.tsptv.my.id/channelid/useephoto/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://tsptv.my.id/image/UseePrime.png" group-title="Nasional", Usee Prime
+http://shab.ios.tsptv.my.id/channelid/useeprime/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://tsptv.my.id/image/DAAI.png" group-title="Nasional", Daai TV
+http://shab.ios.tsptv.my.id/channelid/daaitv/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://tsptv.my.id/image/Eljohntv.png" group-title="Nasional", El John TV
+http://shab.ios.tsptv.my.id/channelid/eljohn/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://tsptv.my.id/image/Ochannel.png" group-title="Nasional", Moji
+http://shab.ios.tsptv.my.id/channelid/ochannel/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://tsptv.my.id/image/Indonesiana.png" group-title="Nasional", Indonesiana TV
+http://shab.ios.tsptv.my.id/channelid/indonesianatv/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://tsptv.my.id/image/Mentaritv.png" group-title="Nasional", Mentari TV HD
+http://shab.ios.tsptv.my.id/channelid/mentaritv/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://tsptv.my.id/image/Elshintatv.png" group-title="Nasional", El Shinta TV
+http://shab.ios.tsptv.my.id/channelid/elshinta/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://tsptv.my.id/image/Mytv.png" group-title="Nasional", MyTV
+http://shab.ios.tsptv.my.id/channelid/mytv/tspgo.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://www.spotv.net/images/intro/intro_logo.png" group-title="Sport", SPOTV
+http://shab.ios.tsptv.my.id/channelid/spotv/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/spo-tv-2-logo-8E2859F55D-seeklogo.com.png" group-title="Sport", SPOTV 2
+http://shab.ios.tsptv.my.id/channelid/spotv2/tspgo.m3u8
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/image/BT1.png" group-title="Sport", BT Sport 1 HD
+http://shab.ios.tsptv.my.id/channelid/btsport1/tspgo.m3u8
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/image/BT2.png" group-title="Sport", BT Sport 2 HD
+http://shab.ios.tsptv.my.id/channelid/btsport2/tspgo.m3u8
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/image/BT3.png" group-title="Sport", BT Sport 3 HD
+http://shab.ios.tsptv.my.id/channelid/btsport3/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://media.info/i/lf/300/1659387051/1491.png" group-title="Sport", BT Sport 4 HD
+http://shab.ios.tsptv.my.id/channelid/btsportespn/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/NBC_Golf_flat_logo.png" group-title="Sport", NBC Golf
+http://shab.ios.tsptv.my.id/channelid/nbcgolf/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/821_300.png" group-title="Sport", WWE Network HD
+http://shab.ios.tsptv.my.id/channelid/wwe/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://tsptv.my.id/image/Redbull.png" group-title="Sport", Redbull TV
+http://shab.ios.tsptv.my.id/channelid/redbulltv/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://tsptv.my.id/image/TVRISport.png" group-title="Sport", TVRI sport
+http://shab.ios.tsptv.my.id/channelid/tvrisport/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://tsptv.my.id/image/Eurosport1.png" group-title="Sport", Eurosport 1 HD
+http://shab.ios.tsptv.my.id/channelid/eurosport1asia/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://tsptv.my.id/image/Eurosport2.png" group-title="Sport", Eurosport 2 HD
+http://shab.ios.tsptv.my.id/channelid/eurosport2asia/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://tsptv.my.id/image/Edge.png" group-title="Sport", Edge Sport
+http://shab.ios.tsptv.my.id/channelid/edge/tspgo.m3u8
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/image/MUTV.png" group-title="Sport", MUTV
+http://shab.ios.tsptv.my.id/channelid/mutv/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-ten-1-hd-logo-300x300.jpg" group-title="Sport", Sony Ten 1
+http://shab.ios.tsptv.my.id/channelid/ten1/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-ten-2-hd-logo-300x300.jpg" group-title="Sport", Sony Ten 2
+http://shab.ios.tsptv.my.id/channelid/ten2/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-ten-3-hd-logo-300x300.jpg" group-title="Sport", Sony Ten 3
+http://shab.ios.tsptv.my.id/channelid/ten3/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonySIXHD_Masthead_Logo.png" group-title="Sport", Sony Six
+http://shab.ios.tsptv.my.id/channelid/six/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a6/Star_Sports_Select_1.jpg" group-title="Sport", Star Select 1 HD
+http://shab.ios.tsptv.my.id/channelid/select1/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/SSS2.jpg" group-title="Sport", Star Select 2 HD
+http://shab.ios.tsptv.my.id/channelid/select2/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-1-logo-300x300.jpg" group-title="Sport", Star Sport 1
+http://shab.ios.tsptv.my.id/channelid/starsport1/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" group-title="Sport", Star Sport 2
+http://shab.ios.tsptv.my.id/channelid/starsport2/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/StarSports3India.jpg/revision/latest?cb=20191214234112" group-title="Sport", Star Sport 3
+http://shab.ios.tsptv.my.id/channelid/starsport3/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://spozone.tv/wp-content/uploads/2022/03/spotvnow_logo_white-1-1024x320.jpg" group-title="Sport", SPOTV NOW 1
+http://shab.ios.tsptv.my.id/channelid/spotvnow1/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://spozone.tv/wp-content/uploads/2022/03/spotvnow_logo_white-1-1024x320.jpg" group-title="Sport", SPOTV NOW 2
+http://shab.ios.tsptv.my.id/channelid/spotvnow2/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://spozone.tv/wp-content/uploads/2022/03/spotvnow_logo_white-1-1024x320.jpg" group-title="Sport", SPOTV NOW 3
+http://shab.ios.tsptv.my.id/channelid/spotvnow3/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://spozone.tv/wp-content/uploads/2022/03/spotvnow_logo_white-1-1024x320.jpg" group-title="Sport", SPOTV NOW 4
+http://shab.ios.tsptv.my.id/channelid/spotvnow4/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/nnbWtFDt8Y9wuHdR9AJxCF-1200-80.png" group-title="Sport", Tennis Channel 1
+http://shab.ios.tsptv.my.id/channelid/tennis1/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/nnbWtFDt8Y9wuHdR9AJxCF-1200-80.png" group-title="Sport", Tennis Channel 2
+http://shab.ios.tsptv.my.id/channelid/tennis2/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Ad_sport_1.png" group-title="Sport", AD Sports 1
+http://shab.ios.tsptv.my.id/channelid/ad1/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2020/06/DubaiSport1.png" group-title="Sport", Dubai Sports 1
+http://shab.ios.tsptv.my.id/channelid/dubaisport1/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/dubai-sports-2-8087.jpg" group-title="Sport", Dubai Sports 2
+http://shab.ios.tsptv.my.id/channelid/dubaisport2/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2020/06/DubaiSport3.png" group-title="Sport", Dubai Sports 3
+http://shab.ios.tsptv.my.id/channelid/dubaisport3/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/132-1320509_dubai-racing2-icon-dubai-sports-1-tv.png" group-title="Sport", Dubai Sports Racing
+http://shab.ios.tsptv.my.id/channelid/dubairacing/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png" group-title="Sport", ESPN Latin 1
+http://shab.ios.tsptv.my.id/channelid/espnlatin1/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png" group-title="Sport", ESPN Latin 2
+http://shab.ios.tsptv.my.id/channelid/espnlatin2/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Sport", ESPN Latin 3
+http://shab.ios.tsptv.my.id/channelid/espnlatin3/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/tfki7njrm3y8jycbtkrx" group-title="Sport", NFL Netwrok
+http://shab.ios.tsptv.my.id/channelid/nfl/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://apps.beinsports.com/dev/au/images/XTRA.png" group-title="Sport", beIN Sport Xtra USA
+http://shab.ios.tsptv.my.id/channelid/beinxtra/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://apps.beinsports.com/dev/au/images/XTRA.png" group-title="Sport", beIN Sport Xtra Espanol
+http://shab.ios.tsptv.my.id/channelid/beinespanol/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://www.realmadrid.com/img/horizontal_940px/logotipo_rmtv_940x400thumb_h_20200128014053.jpg" group-title="Sport", Real Madrid TV
+http://shab.ios.tsptv.my.id/channelid/rmtv/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F892%2Fbein-sports-premium-1.png" group-title="Sport", beIN Sports Premium 1 [test]
+http://shab.ios.tsptv.my.id/channelid/beinpremium1/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F893%2Fbein-sports-premium-1.png" group-title="Sport", beIN Sports Premium 2 [test]
+http://shab.ios.tsptv.my.id/channelid/beinpremium2/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F894%2Fbein-sports-premium-1.png" group-title="Sport", beIN Sports Premium 3 [test]
+http://shab.ios.tsptv.my.id/channelid/beinpremium3/tspgo.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/image/cinemax.png" group-title="Movies", Cinemax HD
+http://shab.ios.tsptv.my.id/channelid/cinemax/tspgo.m3u8
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/image/CinemaWorld.png" group-title="Movies", Cinema World HD
+http://shab.ios.tsptv.my.id/channelid/cinemaworld/tspgo.m3u8
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/image/Celestial.png" group-title="Movies", Celestial Movies Indonesia
+http://shab.ios.tsptv.my.id/channelid/celestialmovies/tspgo.m3u8
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/image/CCM.png" group-title="Movies", Celestial Classic Movies
+http://shab.ios.tsptv.my.id/channelid/ccm/tspgo.m3u8
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/image/HITS.png" group-title="Movies", Hits HD
+http://shab.ios.tsptv.my.id/channelid/hits/tspgo.m3u8
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/image/Kix.png" group-title="Movies", Kix
+http://shab.ios.tsptv.my.id/channelid/kix/tspgo.m3u8
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/image/Thrill.png" group-title="Movies", Thrill
+http://shab.ios.tsptv.my.id/channelid/thrill/tspgo.m3u8
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/image/AXN.png" group-title="Movies", Axn HD
+http://shab.ios.tsptv.my.id/channelid/axn/tspgo.m3u8
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/image/Warner.png" group-title="Movies", Warner TV
+http://shab.ios.tsptv.my.id/channelid/warner/tspgo.m3u8
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/image/TVNMovies.png" group-title="Movies", TVN Movies
+http://shab.ios.tsptv.my.id/channelid/tvnmovies/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_23.png" group-title="Movies", Zee Bioskop
+http://shab.ios.tsptv.my.id/channelid/zeebioskop/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/COLORS-HD.jpg" group-title="Movies", Colors HD
+http://shab.ios.tsptv.my.id/channelid/colors/tspgo.m3u8
+#EXTINF:-1 tvg-logo="http://hotflix.me/upload/source/ztv.png" group-title="Movies", Zee TV
+http://shab.ios.tsptv.my.id/channelid/zeetv/tspgo.m3u8
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/image/BAE.png" group-title="Movies", Rock Entertainment
+http://shab.ios.tsptv.my.id/channelid/bae/tspgo.m3u8
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/image/BAX.png" group-title="Movies", Rock Extreme
+http://shab.ios.tsptv.my.id/channelid/bax/tspgo.m3u8
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/image/MyCinemaAsia.png" group-title="Movies", My Cinema
+http://shab.ios.tsptv.my.id/channelid/mycinema/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Cinema-Europe.png" group-title="Movies", My Cinema Europe
+http://shab.ios.tsptv.my.id/channelid/mycinemaeurope/tspgo.m3u8
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/image/andflix.png" group-title="Movies", &Flix HD
+http://shab.ios.tsptv.my.id/channelid/flix/tspgo.m3u8
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/image/andprive.jpg" group-title="Movies", &Prive HD
+http://shab.ios.tsptv.my.id/channelid/prive/tspgo.m3u8
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/image/andpictures.png" group-title="Movies", &Pictures HD
+http://shab.ios.tsptv.my.id/channelid/pics/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/Citra_Bioskop_Logo.png" group-title="Movies", Citra Bioskop
+http://shab.ios.tsptv.my.id/channelid/citrabioskop/tspgo.m3u8
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/image/MyCinemaAsia.png" group-title="Movies", My Cinema Asia
+http://shab.ios.tsptv.my.id/channelid/mca/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="Movies", Sony Pix
+http://shab.ios.tsptv.my.id/channelid/pix/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/SonySABlogo.png" group-title="Movies", Sony Sab
+http://shab.ios.tsptv.my.id/channelid/sab/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/1200px-SET_India_logo.svg.png" group-title="Movies", Sony Set
+http://shab.ios.tsptv.my.id/channelid/set/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/Star_Gold_2011.png" group-title="Movies", Star Gold
+http://shab.ios.tsptv.my.id/channelid/stargold/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="Movies", Star Movies
+http://shab.ios.tsptv.my.id/channelid/starmovies/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f3/StarPlus_HD_2011.png" group-title="Movies", Star Plus
+http://shab.ios.tsptv.my.id/channelid/starplus/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/23/Star_World_2016_logo.png" group-title="Movies", Star World
+http://shab.ios.tsptv.my.id/channelid/starworld/tspgo.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/image/NGC.png" group-title="Knowledge", National Geographic Channel HD
+http://shab.ios.tsptv.my.id/channelid/natgeo/tspgo.m3u8
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/image/NGW.png" group-title="Knowledge", Natgeo Wild HD
+http://shab.ios.tsptv.my.id/channelid/natgeowild/tspgo.m3u8
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/image/BiznetAdv.png" group-title="Knowledge", Biznet Adventure
+http://shab.ios.tsptv.my.id/channelid/biznetadv/tspgo.m3u8
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/image/Smithsonian.png" group-title="Knowledge", Smithsonian Channel
+http://shab.ios.tsptv.my.id/channelid/smithsonian/tspgo.m3u8
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/image/LoveNature.png" group-title="Knowledge", Love Nature
+http://shab.ios.tsptv.my.id/channelid/lovenature/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cgtndocumentary.jpg" group-title="Knowledge", CGTN Documentary
+http://shab.ios.tsptv.my.id/channelid/cgtn/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://bersamahadapikorona.kemdikbud.go.id/wp-content/uploads/2020/03/Screen-Shot-2020-03-23-at-8.14.00-PM.png" group-title="Knowledge", TV edukasi
+http://shab.ios.tsptv.my.id/channelid/tvedukasi/tspgo.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/image/Tvone.png" group-title="News", Tvone
+http://shab.ios.tsptv.my.id/channelid/tvone/tspgo.m3u8
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/image/MetroTVHD.png" group-title="News", Metro TV HD
+http://shab.ios.tsptv.my.id/channelid/metrotvhd/tspgo.m3u8
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/image/KompasTV.png" group-title="News", Kompas TV
+http://shab.ios.tsptv.my.id/channelid/kompastv/tspgo.m3u8
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/image/iNews.png" group-title="News", iNews TV
+http://shab.ios.tsptv.my.id/channelid/inews/tspgo.m3u8
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/image/CNNIndo.png" group-title="News", CNN Indonesia
+http://shab.ios.tsptv.my.id/channelid/cnnindonesia/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trtworld_small.png" group-title="News", TRT World
+http://shab.ios.tsptv.my.id/channelid/trtworld/tspgo.m3u8
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/image/CNBCIndo.png" group-title="News", CNBC Indonesia
+http://shab.ios.tsptv.my.id/channelid/cnbcindonesia/tspgo.m3u8
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/image/France24.png" group-title="News", France 24
+http://shab.ios.tsptv.my.id/channelid/france24/tspgo.m3u8
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/image/NHKworld.png" group-title="News", NHK World
+http://shab.ios.tsptv.my.id/channelid/nhkworld/tspgo.m3u8
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/image/CNN.png" group-title="News", CNN International
+http://shab.ios.tsptv.my.id/channelid/cnn/tspgo.m3u8
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/image/BSN.png" group-title="News", Berita Satu News
+http://shab.ios.tsptv.my.id/channelid/bsn/tspgo.m3u8
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/image/BSW.png" group-title="News", Berita Satu World
+http://shab.ios.tsptv.my.id/channelid/bsw/tspgo.m3u8
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/image/JGN.png" group-title="News", Jakarta Globe News
+http://shab.ios.tsptv.my.id/channelid/jgn/tspgo.m3u8
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/image/Aljazeera.png" group-title="News", Al Jazeera English
+http://shab.ios.tsptv.my.id/channelid/aljazeera/tspgo.m3u8
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/image/Arirang.png" group-title="News", Arirang
+http://shab.ios.tsptv.my.id/channelid/arirang/tspgo.m3u8
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/image/Bloomberg.png" group-title="News", Bloomberg Asia
+http://shab.ios.tsptv.my.id/channelid/bloomberg/tspgo.m3u8
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/image/CNA.png" group-title="News", Channel News Asia
+http://shab.ios.tsptv.my.id/channelid/cna/tspgo.m3u8
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/image/IDX.png" group-title="News", IDX Channel
+http://shab.ios.tsptv.my.id/channelid/idx/tspgo.m3u8
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/image/DW.png" group-title="News", DW English
+http://shab.ios.tsptv.my.id/channelid/dw/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_euronews_big1.png" group-title="News", Euronews
+http://shab.ios.tsptv.my.id/channelid/euronews/tspgo.m3u8
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/image/SeaToday.png" group-title="News", Sea Today
+http://shab.ios.tsptv.my.id/channelid/seatoday/tspgo.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/image/Animax.png" group-title="Kids", Animax
+http://shab.ios.tsptv.my.id/channelid/animax/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/LogoBabyTV-2021-MAIN_logo.png" group-title="Kids", Baby TV
+http://shab.ios.tsptv.my.id/channelid/babytv/tspgo.m3u8
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/image/Boomerang.png" group-title="Kids", Boomerang
+http://shab.ios.tsptv.my.id/channelid/boomerang/tspgo.m3u8
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/image/CN.png" group-title="Kids", Cartoon Network
+http://shab.ios.tsptv.my.id/channelid/cartoonnetwork/tspgo.m3u8
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/image/Aniplus.png" group-title="Kids", Aniplus
+http://shab.ios.tsptv.my.id/channelid/aniplus/tspgo.m3u8
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/image/BabyFirst.png" group-title="Kids", Baby First
+http://shab.ios.tsptv.my.id/channelid/babyfirst/tspgo.m3u8
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/image/DaVinci.png" group-title="Kids", Davinci Learning
+http://shab.ios.tsptv.my.id/channelid/davinci/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_mykids_big.png" group-title="Kids", My Kidz
+http://shab.ios.tsptv.my.id/channelid/mykidz/tspgo.m3u8
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/image/Hip.png" group-title="Kids", Hip Hip Horee
+http://shab.ios.tsptv.my.id/channelid/hip/tspgo.m3u8
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/image/ZooMoo.png" group-title="Kids", Zoo Moo
+http://shab.ios.tsptv.my.id/channelid/zoomoo/tspgo.m3u8
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/image/Horee.png" group-title="Kids", Horee
+http://shab.ios.tsptv.my.id/channelid/horee/tspgo.m3u8
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/image/DCH.png" group-title="Kids", Disney CH US
+http://shab.ios.tsptv.my.id/channelid/dchus/tspgo.m3u8
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/image/DXD.png" group-title="Kids", Disney XD US
+http://shab.ios.tsptv.my.id/channelid/dxdus/tspgo.m3u8
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/image/DJR.png" group-title="Kids", Disney JR US
+http://shab.ios.tsptv.my.id/channelid/djrus/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2020/02/ducktv.jpg" group-title="Kids", Duck TV
+http://shab.ios.tsptv.my.id/channelid/ducktv/tspgo.m3u8
+http://shab.ios.tsptv.my.id/channelid/teletubbies/tspgo.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/image/EGG.png" group-title="Variety", EGG Network
+http://shab.ios.tsptv.my.id/channelid/egg/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_abcaustralia_big.png" group-title="Variety", ABC Australia
+http://shab.ios.tsptv.my.id/channelid/abcaustralia/tspgo.m3u8
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/image/TIC.png" group-title="Variety", The Indonesian Channel
+http://shab.ios.tsptv.my.id/channelid/tic/tspgo.m3u8
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/image/CCTV4.png" group-title="Variety", CCTV 4
+http://shab.ios.tsptv.my.id/channelid/cctv4/tspgo.m3u8
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/image/CitraDrama.png" group-title="Variety", Citra Drama
+http://shab.ios.tsptv.my.id/channelid/citradrama/tspgo.m3u8
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/image/GEM.png" group-title="Variety", GEM TV
+http://shab.ios.tsptv.my.id/channelid/gem/tspgo.m3u8
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/image/ONE.png" group-title="Variety", One
+http://shab.ios.tsptv.my.id/channelid/setone/tspgo.m3u8
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/image/TVN.png" group-title="Variety", TVN
+http://shab.ios.tsptv.my.id/channelid/tvn/tspgo.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/image/TV5.png" group-title="Lifestyle", TV5 Monde
+http://shab.ios.tsptv.my.id/channelid/tv5monde/tspgo.m3u8
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/image/FTV.png" group-title="Lifestyle", Fashion TV
+http://shab.ios.tsptv.my.id/channelid/fashiontv/tspgo.m3u8
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/image/FTVM.png" group-title="Lifestyle", Fashion TV Midnight Secret
+http://shab.ios.tsptv.my.id/channelid/fashiontvmidnight/tspgo.m3u8
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/image/Biznet.png" group-title="Lifestyle", Biznet Lifestyle HD
+http://shab.ios.tsptv.my.id/channelid/biznetlifestyle/tspgo.m3u8
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/image/Lifetime.png" group-title="Lifestyle", Lifetime
+http://shab.ios.tsptv.my.id/channelid/lifetime/tspgo.m3u8
+http://shab.ios.tsptv.my.id/channelid/ent/tspgo.m3u8
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/image/CitraEnt.png" group-title="Lifestyle", Citra Entertainment
+http://shab.ios.tsptv.my.id/channelid/citraent/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/ygfM-kPXOXftnTLTwi2I8pkwC0k=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8558/citra-culinary-travel-dfc732.jpg" group-title="Lifestyle", Citra Culinary & Travel
+http://shab.ios.tsptv.my.id/channelid/citkul/tspgo.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586672831-.png" group-title="Music", Citra Dangdut
+http://shab.ios.tsptv.my.id/channelid/citradangdut/tspgo.m3u8
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/image/Maleo.png" group-title="Music", Maleo Channel
+http://shab.ios.tsptv.my.id/channelid/maleo/tspgo.m3u8
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/image/MTV1.png" group-title="Music", MTV Yo !
+http://shab.ios.tsptv.my.id/channelid/mtv1/tspgo.m3u8
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/image/MTV2.png" group-title="Music", MTV Biggest Music !
+http://shab.ios.tsptv.my.id/channelid/mtv2/tspgo.m3u8
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/image/MTV3.png" group-title="Music", MTV Block Party !
+http://shab.ios.tsptv.my.id/channelid/mtv3/tspgo.m3u8
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/image/MTV4.png" group-title="Music", MTV Sparkin New
+http://shab.ios.tsptv.my.id/channelid/mtv4/tspgo.m3u8
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/image/MTVLive.png" group-title="Music", MTV Live
+http://shab.ios.tsptv.my.id/channelid/mtvlive/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5f/Musica_Studios.jpg" group-title="Music", Musica TV
+http://shab.ios.tsptv.my.id/channelid/musica/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/1200px-Trace_Urban_logo_2010.svg.png" group-title="Music", Trace Urban
+http://shab.ios.tsptv.my.id/channelid/traceurban/tspgo.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Ajwa_TV_logo.png" group-title="Religi", Ajwa TV
+http://shab.ios.tsptv.my.id/channelid/ajwatv/tspgo.m3u8
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/image/CitraMuslim.png" group-title="Religi", Citra Muslim
+http://shab.ios.tsptv.my.id/channelid/citramuslim/tspgo.m3u8
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/image/QuranTV.png" group-title="Religi", Saudi Qur'an
+http://shab.ios.tsptv.my.id/channelid/mekkah/tspgo.m3u8
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/image/SunnahTV.png" group-title="Religi", Saudi Sunnah
+http://shab.ios.tsptv.my.id/channelid/madinnah/tspgo.m3u8
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/image/TV9sby.png" group-title="Religi", TV9 Surabaya
+http://shab.ios.tsptv.my.id/channelid/tv9sby/tspgo.m3u8
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/image/RodjaTV.png" group-title="Religi", Rodja TV
+http://shab.ios.tsptv.my.id/channelid/rodjatv/tspgo.m3u8
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/image/TVMU.png" group-title="Religi", TV Muhammadiyah
+http://shab.ios.tsptv.my.id/channelid/tvmu/tspgo.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/RTM_TV1.png" group-title="Malaysia", RTM 1 MY
+http://shab.ios.tsptv.my.id/channelid/rtm1/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/78/TV2_RTMS.png" group-title="Malaysia", RTM 2 MY
+http://shab.ios.tsptv.my.id/channelid/rtm2/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/f5/TV3_%28Malaysia%29.svg/800px-TV3_%28Malaysia%29.svg.png" group-title="Malaysia", TV 3 MY
+http://shab.ios.tsptv.my.id/channelid/tv3/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://mediaformasi.com/content/images/size/w1000/2021/02/IMG_20210216_204351_427.png" group-title="Malaysia", Didik TV
+http://shab.ios.tsptv.my.id/channelid/didiktv/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/8TV_Chinese.png" group-title="Malaysia", 8TV
+http://shab.ios.tsptv.my.id/channelid/8tv/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Sukan_RTM_1_April.png" group-title="Malaysia", Sukan RTM
+http://shab.ios.tsptv.my.id/channelid/sukanrtm/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://television-live.com/uploads/posts/46chgferwhehergf.png" group-title="Malaysia", Drama Sangat
+http://shab.ios.tsptv.my.id/channelid/dramasangat/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/TV6_Logo.jpg" group-title="Malaysia", TV 6
+http://shab.ios.tsptv.my.id/channelid/rtm6/tspgo.m3u8
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/image/Malaysia.png" group-title="Malaysia", Astro Awani
+http://shab.ios.tsptv.my.id/channelid/awani/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png" group-title="Malaysia", TV Okey
+http://shab.ios.tsptv.my.id/channelid/tvokey/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/be/NewlogoTV9_%28Malaysia%29.png/150px-NewlogoTV9_%28Malaysia%29.png" group-title="Malaysia", TV9 Malaysia
+http://shab.ios.tsptv.my.id/channelid/tv9my/tspgo.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvikim.my/images/logo-headercast.png" group-title="Malaysia", TV Ikim
+http://shab.ios.tsptv.my.id/channelid/tvikim/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Unifi-Sports_1.png/revision/latest/scale-to-width-down/280?cb=20210712111848" group-title="Malaysia", Unifi Sport 1
+http://shab.ios.tsptv.my.id/channelid/unifi1/tspgo.mpd
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Unifi-Sports-2.png/revision/latest/scale-to-width-down/300?cb=20210712113109" group-title="Malaysia", Unifi Sport 2
+http://shab.ios.tsptv.my.id/channelid/unifi1/tspgo.mpd
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/shabrina0401/watermark/main/Blogapp/UCL.png" group-title="LIVE EVENT", MCQUEEN UCL 1
+http://shab.ios.tsptv.my.id/channelid/tspgoucl1/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/shabrina0401/watermark/main/Blogapp/UCL.png" group-title="LIVE EVENT", MCQUEEN UCL 2
+http://shab.ios.tsptv.my.id/channelid/tspgoucl2/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/shabrina0401/watermark/main/Blogapp/UCL.png" group-title="LIVE EVENT", MCQUEEN UCL 3
+http://shab.ios.tsptv.my.id/channelid/tspgoucl3/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/shabrina0401/watermark/main/Blogapp/UCL.png" group-title="LIVE EVENT", MCQUEEN UCL 4
+http://shab.ios.tsptv.my.id/channelid/tspgoucl4/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/shabrina0401/watermark/main/Blogapp/UCL.png" group-title="LIVE EVENT", MCQUEEN UCL 5
+http://shab.ios.tsptv.my.id/channelid/tspgoucl5/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/shabrina0401/watermark/main/Blogapp/UCL.png" group-title="LIVE EVENT", MCQUEEN UCL 6
+http://shab.ios.tsptv.my.id/channelid/tspgoucl6/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/shabrina0401/watermark/main/Blogapp/EPL.png" group-title="LIVE EVENT", MCQUEEN EPL 1
+http://shab.ios.tsptv.my.id/channelid/tspgoepl1/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/shabrina0401/watermark/main/Blogapp/EPL.png" group-title="LIVE EVENT", MCQUEEN EPL 2
+http://shab.ios.tsptv.my.id/channelid/tspgoepl2/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/shabrina0401/watermark/main/Blogapp/EPL.png" group-title="LIVE EVENT", MCQUEEN EPL 3
+http://shab.ios.tsptv.my.id/channelid/tspgoepl3/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/shabrina0401/watermark/main/Blogapp/LALIGA.png" group-title="LIVE EVENT", MCQUEEN La Liga 1
+http://shab.ios.tsptv.my.id/channelid/tspgolaliga1/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/shabrina0401/watermark/main/Blogapp/LALIGA.png" group-title="LIVE EVENT", MCQUEEN La Liga 2
+http://shab.ios.tsptv.my.id/channelid/tspgolaliga2/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/shabrina0401/watermark/main/Blogapp/SERIEA.png" group-title="LIVE EVENT", MCQUEEN Serie A 1
+http://shab.ios.tsptv.my.id/channelid/tspgoseriea1/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/shabrina0401/watermark/main/Blogapp/SERIEA.png" group-title="LIVE EVENT", MCQUEEN Serie A 2
+http://shab.ios.tsptv.my.id/channelid/tspgoseriea2/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/shabrina0401/watermark/main/Blogapp/LIGUE1.png" group-title="LIVE EVENT", MCQUEEN Ligue 1
+http://shab.ios.tsptv.my.id/channelid/tspgoligue1/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/shabrina0401/watermark/main/Blogapp/BUNDESLIGA.png" group-title="LIVE EVENT", MCQUEEN Bundesliga
+http://shab.ios.tsptv.my.id/channelid/tspgobundesliga/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/shabrina0401/watermark/main/Blogapp/BRILIGA1.png" group-title="LIVE EVENT", MCQUEEN Liga Indo 1
+http://shab.ios.tsptv.my.id/channelid/tspgoligaindo1/tspgo.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/shabrina0401/watermark/main/Blogapp/BRILIGA1.png" group-title="LIVE EVENT", MCQUEEN Liga Indo 2
+http://shab.ios.tsptv.my.id/channelid/tspgoligaindo2/tspgo.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/shabrina0401/watermark/main/Blogapp/BRILIGA1.png" group-title="LIVE EVENT", MCQUEEN Liga Indo 3
+http://shab.ios.tsptv.my.id/channelid/tspgoligaindo3/tspgo.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/shabrina0401/watermark/main/Blogapp/BWF.png" group-title="LIVE EVENT", MCQUEEN BWF 1
+http://shab.ios.tsptv.my.id/channelid/tspgobwf1/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/shabrina0401/watermark/main/Blogapp/BWF.png" group-title="LIVE EVENT", MCQUEEN BWF 2
+http://shab.ios.tsptv.my.id/channelid/tspgobwf2/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/shabrina0401/watermark/main/Blogapp/BWF.png" group-title="LIVE EVENT", MCQUEEN BWF 3
+http://shab.ios.tsptv.my.id/channelid/tspgobwf3/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/shabrina0401/watermark/main/Blogapp/MOTOGP.png" group-title="LIVE EVENT", MCQUEEN MOTO GP
+http://shab.ios.tsptv.my.id/channelid/tspgomotogp/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/shabrina0401/watermark/main/Blogapp/F1.png" group-title="LIVE EVENT", MCQUEEN F1
+http://shab.ios.tsptv.my.id/channelid/tspgof1/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/shabrina0401/watermark/main/Blogapp/image_2022-03-23_21-07-51.png" group-title="LIVE EVENT", MCQUEEN LIVE 1
+http://shab.ios.tsptv.my.id/channelid/tspgo1/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/shabrina0401/watermark/main/Blogapp/image_2022-03-23_21-07-51.png" group-title="LIVE EVENT", MCQUEEN LIVE 2
+http://shab.ios.tsptv.my.id/channelid/tspgo2/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/shabrina0401/watermark/main/Blogapp/image_2022-03-23_21-07-51.png" group-title="LIVE EVENT", MCQUEEN LIVE 3
+http://shab.ios.tsptv.my.id/channelid/tspgo3/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/shabrina0401/watermark/main/Blogapp/image_2022-03-23_21-07-51.png" group-title="LIVE EVENT", MCQUEEN LIVE 4
+http://shab.ios.tsptv.my.id/channelid/tspgo4/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/shabrina0401/watermark/main/Blogapp/image_2022-03-23_21-07-51.png" group-title="LIVE EVENT", MCQUEEN LIVE 5
+http://shab.ios.tsptv.my.id/channelid/tspgo5/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/shabrina0401/watermark/main/Blogapp/image_2022-03-23_21-07-51.png" group-title="LIVE EVENT", MCQUEEN LIVE 6
+http://shab.ios.tsptv.my.id/channelid/tspgo6/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/shabrina0401/watermark/main/Blogapp/image_2022-03-23_21-07-51.png" group-title="LIVE EVENT", MCQUEEN LIVE 7
+http://shab.ios.tsptv.my.id/channelid/tspgo7/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/shabrina0401/watermark/main/Blogapp/image_2022-03-23_21-07-51.png" group-title="LIVE EVENT", MCQUEEN LIVE 8
+http://shab.ios.tsptv.my.id/channelid/tspgo8/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/shabrina0401/watermark/main/Blogapp/image_2022-03-23_21-07-51.png" group-title="LIVE EVENT", MCQUEEN LIVE 9
+http://shab.ios.tsptv.my.id/channelid/tspgo9/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/shabrina0401/watermark/main/Blogapp/image_2022-03-23_21-07-51.png" group-title="LIVE EVENT", MCQUEEN LIVE 10
+http://shab.ios.tsptv.my.id/channelid/tspgo10/tspgo.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/shabrina0401/watermark/main/Blogapp/image_2022-03-23_21-07-51.png" group-title="LIVE EVENT", MCQUEEN LIVE 11
+http://shab.ios.tsptv.my.id/channelid/tspgo11/tspgo.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/shabrina0401/watermark/main/Blogapp/image_2022-03-23_21-07-51.png" group-title="LIVE EVENT", MCQUEEN LIVE 12
+http://shab.ios.tsptv.my.id/channelid/tspgo12/tspgo.mpd
+
+
+#EXTINF:-1 tvg-logo="http://tsptv.my.id/top" group-title="Expired", 0/0/2022
+http://tsptv.my.id/TOP.m3u8
